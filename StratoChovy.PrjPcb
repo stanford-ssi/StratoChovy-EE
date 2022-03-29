@@ -35,7 +35,10 @@ IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
 OutputPath=
 LogFolderPath=
-ManagedProjectGUID=
+ManagedProjectGUID=39173F40-8190-4463-89E0-94F8653A8AF0
+VaultGUID=6fab6a0b-9cc4-4c5b-93ca-7dffd8c87e71
+ReleaseVaultName=Stanford Student Space Initiative
+ItemGUID=39173F40-8190-4463-89E0-94F8653A8AF0
 IncludeDesignInRelease=0
 CrossRefSheetStyle=1
 CrossRefLocationStyle=1
@@ -389,28 +392,28 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Parameter1]
-Name=prjTitle
-Value=ThunderGuppy
+Name=prjEngineer1
+Value=Tim Vrakas
 
 [Parameter2]
-Name=prjRevision
-Value=1
-
-[Parameter3]
-Name=prjReviewer
-Value=
-
-[Parameter4]
-Name=prjReviewDate
-Value=2019-08-03
-
-[Parameter5]
 Name=prjEngineer2
 Value=
 
+[Parameter3]
+Name=prjReviewDate
+Value=2019-08-03
+
+[Parameter4]
+Name=prjReviewer
+Value=
+
+[Parameter5]
+Name=prjRevision
+Value=1
+
 [Parameter6]
-Name=prjEngineer1
-Value=Tim Vrakas
+Name=prjTitle
+Value=ThunderGuppy
 
 [Configuration1]
 Name=Default Configuration
