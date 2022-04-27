@@ -388,6 +388,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for StratoChovy\Design Rule Check - StratoChovy.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=prjEngineer1
 Value=Tim Vrakas
@@ -584,7 +588,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Print to PDF (Mac Desktop)
+TargetPrinter=CardinalPrint-SU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
