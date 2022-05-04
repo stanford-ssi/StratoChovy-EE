@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=Project Outputs for StratoChovy
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -545,7 +545,7 @@ StimStopTime=6E-8
 StimPeriodTime=1E-7
 
 [Generic_EDE]
-OutputDir=Project Outputs for StratoChovy
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
