@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=1
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for StratoChovy
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -392,6 +392,74 @@ DocumentUniqueId=
 DocumentPath=Project Outputs for StratoChovy\Design Rule Check - StratoChovy.html
 DItemRevisionGUID=
 
+[GeneratedDocument2]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy.REP
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for StratoChovy\ExportSTEP\StratoChovy.step
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Copper_Signal_1.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Copper_Signal_2.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Copper_Signal_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Copper_Signal_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Legend_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Legend_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_NPTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Paste_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Paste_Top.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument15]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Profile.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument16]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_PTH_Drill.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument17]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Soldermask_Bot.gbr
+DItemRevisionGUID=
+
+[GeneratedDocument18]
+DocumentPath=Project Outputs for StratoChovy\GerberX2\StratoChovy_Soldermask_Top.gbr
+DItemRevisionGUID=
+
 [Parameter1]
 Name=prjEngineer1
 Value=Tim Vrakas
@@ -477,7 +545,7 @@ StimStopTime=6E-8
 StimPeriodTime=1E-7
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for StratoChovy
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -588,7 +656,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon MG7100 series
+TargetPrinter=CardinalPrint-SU
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
